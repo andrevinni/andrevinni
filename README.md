@@ -1,4 +1,4 @@
-### Hi there 👋, Meu nome é André Vinícius.
+### Olá 👋, Meu nome é André Vinícius.
 #### Sou desenvolvedor C# e C++ Builder.
 
 ### 🤓 Quem sou eu :
@@ -9,7 +9,8 @@
 - 🤣 Curiosidade 1: Sou um Youtuber com + 1k de visualizações.
 - 🏊‍♂️ Curiosidade 2: Eu sou um treinador de natação em tempo parcial.
 
-### Hi 👋
+### Hi there 👋, My name is André Vinícius.
+#### I'm a C# developer and C++ Builder.
 
 ### 🤓 Who am I :
 
