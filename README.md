@@ -20,11 +20,13 @@
 - 🤣 Fun fact 1 : I am a Youtuber with +1k Views.
 - 🏊‍♂️ Fun fact 2 : I am a part-time Swimming coach.
 
-{:.center}
+
+<p align="center">
+  <img src="http://some_place.com/image.png" />
+![Sou desenvolvedor C# e C++ Builder.](https://github.com/andrevinni/andrevinni/blob/main/imagens/logo_splash_celular.png)  
+</p>
+
 ![Sou desenvolvedor C# e C++ Builder.](https://github.com/andrevinni/andrevinni/blob/main/imagens/logo_splash_celular.png)
-.center {
-  text-align: center;
-}
 
 Atualmente desenvolvo junto a dois profissionais um sistema de Gestão para Comissionamento em C# e SQL Server, que visa assegurar que todas as etapas de uma implementação deva ser realizada em conformidade com as especificações do projeto, incluindo todas as instalações e equipamentos (hardware e software), ou seja toda a infraestrutura necessária para sua ativação.
 
