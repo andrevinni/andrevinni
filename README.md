@@ -23,7 +23,6 @@
 
 <p align="center">
   <img src="https://github.com/andrevinni/andrevinni/blob/main/imagens/logo_splash_celular.png" />
-![Sou desenvolvedor C# e C++ Builder.](https://github.com/andrevinni/andrevinni/blob/main/imagens/logo_splash_celular.png)  
 </p>
 
 ![Sou desenvolvedor C# e C++ Builder.](https://github.com/andrevinni/andrevinni/blob/main/imagens/logo_splash_celular.png)
