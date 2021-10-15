@@ -20,8 +20,9 @@
 - 🤣 Fun fact 1 : I am a Youtuber with +1k Views.
 - 🏊‍♂️ Fun fact 2 : I am a part-time Swimming coach.
 
-
+<center>
 ![Sou desenvolvedor C# e C++ Builder.](https://github.com/andrevinni/andrevinni/blob/main/imagens/logo_splash_celular.png)
+</center>
 
 Atualmente desenvolvo junto a dois profissionais um sistema de Gestão para Comissionamento em C# e SQL Server, que visa assegurar que todas as etapas de uma implementação deva ser realizada em conformidade com as especificações do projeto, incluindo todas as instalações e equipamentos (hardware e software), ou seja toda a infraestrutura necessária para sua ativação.
 
@@ -30,7 +31,7 @@ Skills: C# / C++ / JS / HTML / CSS /Shell Script
 - 🔭 I’m currently working on this page. 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/andrevinni)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/andrevinni)
 
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 
